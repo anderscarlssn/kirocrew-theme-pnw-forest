@@ -1,10 +1,10 @@
 {
   "light": {
     "--bg": "#d8e6d2",
-    "--bg-elevated": "#f9fbf7",
+    "--bg-elevated": "#ecf4e8",
     "--card": "#f9fbf7",
     "--card-hl": "#e2efdc",
-    "--panel": "#e6eee6",
+    "--panel": "#e5efe0",
     "--chrome": "#e3ece3",
     "--bg-hover": "#dcebd8",
     "--bg-accent": "#d6eadb",
