@@ -4,5 +4,6 @@
   "emoji": "🌲",
   "level": 1,
   "formatVersion": 1,
+  "branding": { "botName": "Rain Crew" },
   "loaderIcons": ["cloud", "moon", "star", "sparkles", "flower"]
 }
