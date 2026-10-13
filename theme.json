@@ -1,0 +1,8 @@
+{
+  "slug": "pnw-forest",
+  "name": "PNW Forest",
+  "emoji": "🌲",
+  "level": 1,
+  "formatVersion": 1,
+  "loaderIcons": ["cloud", "moon", "star", "sparkles", "flower"]
+}
